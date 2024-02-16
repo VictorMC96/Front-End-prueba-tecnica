@@ -90,11 +90,12 @@ Explica cómo se declara una variable en JavaScript y en TypeScript.
 ¿Qué es npm y cuál es su función en el desarrollo de aplicaciones web?
 Describe el proceso para instalar un paquete npm en un proyecto.
 
-## 6. Integración e Implementación de APIs:
+## 6. Integración e Implementación de APIs y WebSocket :
 
 Explica qué es una API y cómo se utiliza en el desarrollo web.
 ¿Qué es JSON y cuál es su relación con las APIs REST?
 Describe el proceso para realizar una solicitud GET a una API REST utilizando JavaScript/TypeScript.
+Descripbe como integrarias un WebSocket
 
 ## 7. Patrón MVC:
 
