@@ -14,6 +14,13 @@ Eficiencia de los algoritmos entregados,
 Mostrar la experencía y la manera de poder salir de la caja para romper o identificar cualquier falla o mejora,
 Familiaridad con Frameworks y plataformas.
 
+
+## Consideraciones al finalizar la prueba:
+Enviar la prueba tecnica hacía el correo de la consultora y copiando la prueba al correo vmiranda@neology.mx 
+Cumplir con los puntos que solicitan, hacer enfasis en el detalle de las interfaces
+Clonar el proyecto y subirlo como una rama adicional
+
+
 ## Prueba Técnica para Desarrollador Front-End Angular
 
 ## Parte 1 tecnica:
