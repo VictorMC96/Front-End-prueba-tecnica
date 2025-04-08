@@ -16,7 +16,7 @@ Familiaridad con Frameworks y plataformas.
 
 
 ## Consideraciones al finalizar la prueba:
-Enviar la prueba tecnica hacía el correo de la consultora y copiando la prueba al correo vmiranda@neology.mx 
+Enviar la prueba tecnica hacía el correo de la consultora y copiando la prueba al correo vmiranda@neology.mx y lluna@neopartners.mx
 Cumplir con los puntos que solicitan, hacer enfasis en el detalle de las interfaces
 Clonar el proyecto y subirlo como una rama adicional
 
