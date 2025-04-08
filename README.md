@@ -1,4 +1,4 @@
-# Front-End-prueba-tecnica
+# Front-End-prueba-tecnica-ANGULAR
 Instrucciones de la prueba tecnica 
 
 La siguiente es una prueba para evaluar a los postulantes para un perfil de Front End.
